@@ -5,7 +5,7 @@ En esta práctica de CIU hemos desarrollado un programa en arduino mediante el c
 
 <br>
 <p><b> Funcionamiento </b></p>
-Al ejecutar el programa, se podrá ver el parpadeo de el LED integrado en la placa de Arduino
+<p>Al ejecutar el programa, se podrá ver el parpadeo de el LED integrado en la placa de Arduino<p>
 <br>
 
 <p><b> Referencias </b></p>
